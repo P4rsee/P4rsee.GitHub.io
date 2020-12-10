@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About"
+title: " About "
 description: "A vampary with no company " 
 header-img: "img/red.jpg"
 ---
