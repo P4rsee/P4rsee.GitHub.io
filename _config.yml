@@ -1,16 +1,16 @@
 # Site settings
-title: 博客名字 # 你的博客名字，可以定义修订
-header-img: "img/green.jpg"
+title: 紅魔館の地下室 # 你的博客名字，可以定义修订
+header-img: "img/red.jpg"
 tagline: "cn"  
-description: "这是我的博客"  # 一句话描述你的博客
+description: "恐ろしい波動"  # 一句话描述你的博客
 baseurl: ""
-url: "http://cnfeat"  # 此处填写你的博客地址 
+url: "http://f1andrescarlet.com"  # 此处填写你的博客地址 
 
 # About/contact
 owner: 
-  name: "作者名字" # 填写作者信息：名字
-  email: X@gmail.com # 填写作者信息：邮箱
-  bio: "你的博客描述" # 填写作者信息：博客描述
+  name: "フランドゥ・スカレッツ" # 填写作者信息：名字
+  email: flandre495@foxmail.com # 填写作者信息：邮箱
+  bio: "平时生活的地方，很想出去玩" # 填写作者信息：博客描述
 
 # Data
 gavatar: img/favicon.png # 浏览器地址栏小图标，可自定义更改
