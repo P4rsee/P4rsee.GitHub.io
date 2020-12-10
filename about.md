@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "About"
-description: "你的博客描述 " 
-header-img: "img/green.jpg"
+description: "A vampary with no company " 
+header-img: "img/red.jpg"
 ---
 
 被恶毒的姐姐关在地下室很久很久，希望有人能来救救我。
